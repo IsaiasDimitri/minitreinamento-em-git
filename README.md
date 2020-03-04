@@ -30,6 +30,10 @@ pip install -r requirementes.txt
 - Porque Git?
 
 - Pedindo ajuda
+   ```
+   man git
+   git --help [nome do comando]
+   ```
 
 - Iniciando um repositório
    - o que é um repositorio?
