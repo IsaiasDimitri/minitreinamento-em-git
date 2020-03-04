@@ -1,5 +1,4 @@
 ## Mini treinamento em GIT para os bolsistas/voluntários do Laboratório de Inovação Tecnológica - IFCE.
-#### Ministrado por Isaias Dimitri.
 
 ### Objetivos:
 Abordar conceitos básicos, seguindo a documentação e aplicando neste simples projeto em python.
