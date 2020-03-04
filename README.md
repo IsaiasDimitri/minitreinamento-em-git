@@ -11,18 +11,20 @@ O código neste repositório mostra como consumir uma API Rest, utilizando a bib
 - Git
 - Python ^3.6
 - Virtualenv ^15.1
-- Terminal(linux) ou Prompt de Comando(windows)
+- Bash
 - Editor de texto (preferível VSCode)
 - Rodar pelo menos uma vez na vida "man git" ou "git --help"
 
 ### Rodando o código
 Clone o projeto e entre na pasta
 ```
-git clone URL
-cd git_lit
+git clone https://github.com/IsaiasDimitri/minitreinamento-em-git.git
+cd minitreinamento-em-git
 ```
 Dentro da pasta raiz
 ```
+virtualenv -p python3 .env
+. .env/bin/activate
 pip install -r requirementes.txt
 ```
 ### Tópicos:
