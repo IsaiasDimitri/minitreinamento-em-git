@@ -51,8 +51,8 @@ pip install -r requirementes.txt
     - convenções
         - master
         - develop
-        feature
-        hotfix
+        - feature
+        - hotfix
     
     - comandos
         - git branch -l (lista as branchs locais)
